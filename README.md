@@ -1,10 +1,10 @@
 <h2> 👑 Discord </h2>
-<a href=“http://exemplo.com/“>Flex Grid</a>
+<a href=“https://discord.gg/UMbGPJNRYn“>click Here</a>
 
 <h2> 📚 Documentação </h2>
 Dê uma olhada no nosso discord @Wiki
 
-<h2> 📞 Instalação </h2>
+<h2> 📞 Instalação </hhttps://discord.gg/2>
 Clique aqui para ir para a página de instalação básica
 
 <h2> 🐞 Problemas </h2>
