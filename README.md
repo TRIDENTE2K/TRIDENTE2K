@@ -1,5 +1,5 @@
 <h2> 👑 Discord </h2>
-<a href=“http://exemplo.com/“>Flex Grid</a>
+https://discord.gg/UMbGPJNRYn
 
 <h2> 📚 Documentação </h2>
 Dê uma olhada no nosso discord @Wiki
