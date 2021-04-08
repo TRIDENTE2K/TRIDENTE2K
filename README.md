@@ -1,14 +1,14 @@
-📚 Documentação
+<h1> 📚 Documentação </h1>
 Dê uma olhada no nosso discord @Wiki
 
-📞 Instalação
+<h1> 📞 Instalação </h1>
 Clique aqui para ir para a página de instalação básica
 
-🐞 Problemas
+<h1> 🐞 Problemas </h1>
 Se você receber um bug entre em contacto com nosco no discord no @Problemas!
 
 Obrigado por apoiar este projeto e baixar!
 
-TIGERS
-📑 License
+<h1> TIGERS </h1>
+<h1> 📑 License </h1>
 Copyright © 2021 Tridente2k.
