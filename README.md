@@ -5,15 +5,9 @@ Dê uma olhada no Wiki
 Clique aqui para ir para a página de instalação básica
 
 🐞 Problemas
-Se você receber um bug, por favor relate-o aqui
+Se você receber um bug entre em contacto com nosco no discord no @Problemas!
 
-❓ Apoiar
-Se você tiver alguma dúvida sobre isso, clique aqui
-
-☕ Me compre um café
-Se você quiser ajudar neste projeto, pode baixar aqui
-
-Obrigado por apoiar este projeto!
+Obrigado por apoiar este projeto e baixar!
 
 TIGERS
 📑 License
