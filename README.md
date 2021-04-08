@@ -1,5 +1,5 @@
 📚 Documentação
-Dê uma olhada no Wiki
+Dê uma olhada no nosso discord #Wiki
 
 📞 Instalação
 Clique aqui para ir para a página de instalação básica
